@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Juno1.0.0">
+    <output-path>$PROJECT_DIR$/out/artifacts/Juno1_0_0</output-path>
+    <root id="archive" name="Juno1.0.0.jar">
+      <element id="module-output" name="Juno" />
+    </root>
+  </artifact>
+</component>
